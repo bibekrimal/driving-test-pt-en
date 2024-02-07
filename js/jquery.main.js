@@ -1,6 +1,12 @@
 jQuery(function() {
+
+    var localUrl = $(location).attr('href');
+
+    var jsonData = localUrl.split('?')[1];
+
+    // console.log(jsonData);
    
-    var urlData = 'question.json';
+    var urlData = jsonData + '.json';
     var baseImgUrl = 'https://www.passarnocodigo.com/content/resources/images/';
 
     $.getJSON(urlData, function(response) {
