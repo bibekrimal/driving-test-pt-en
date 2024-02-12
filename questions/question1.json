@@ -1,0 +1,949 @@
+{
+    "questions":
+    [
+        {
+            "question": "4) Neste local posso parar:",
+            "optionA": "No lado direito, se possível fora da faixa de rodagem.",
+            "optionB": "No lado esquerdo da faixa de rodagem.",
+            "correct": "A",
+            "imageHash": "q89lno84.jpg",
+            "imageName": "q89lno84.jpg",
+            "topicName": "Paragem, estacionamento e cruzamento de veículos"
+        },
+        {
+            "question": "5) É proibido parar neste local.",
+            "optionA": "Certo.",
+            "optionB": "Errado.",
+            "correct": "A",
+            "imageHash": "kpbabad9.jpg",
+            "imageName": "kpbabad9.jpg",
+            "topicName": "Paragem, estacionamento e cruzamento de veículos"
+        },
+        {
+            "question": "6) O que acontece se os travões actuarem de modo desigual sobre as rodas do mesmo eixo?",
+            "optionA": "A distância de paragem diminui.",
+            "optionB": "O veículo altera a trajectória.",
+            "correct": "B",
+            "imageHash": "o8xxka8g.jpg",
+            "imageName": "o8xxka8g.jpg",
+            "topicName": "Classificação, constituintes, inspecções, pesos e dimensões, protecção de ambiente, equipamentos de segurança, acidente"
+        },
+        {
+            "question": "7) Nesta situação, a presença de vento lateral pode afectar a minha condução?",
+            "optionA": "Sim.",
+            "optionB": "Não.",
+            "correct": "A",
+            "imageHash": "5pn2wape.jpg",
+            "imageName": "5pn2wape.jpg",
+            "topicName": "Vias de trânsito, condições ambientais adversas"
+        },
+        {
+            "question": "8) A partir do sinal vertical circulo numa via em que não é permitido:",
+            "optionA": "Aos quadriciclos ultrapassar.",
+            "optionB": "Mudar de direcção à esquerda.",
+            "correct": "B",
+            "imageHash": "r84rkjpo.jpg",
+            "imageName": "r84rkjpo.jpg",
+            "topicName": "Sinais de indicação"
+        },
+        {
+            "question": "9) Os sinais de pré-aviso gráfico devem conter os destinos referentes a cada uma das direcções bem como a identificação das estradas que lhe estão associadas. Concorda com a afirmação?",
+            "optionA": "Sim.",
+            "optionB": "Não.",
+            "correct": "A",
+            "imageHash": "vd7o3k8g.jpg",
+            "imageName": "vd7o3k8g.jpg",
+            "topicName": "Sinais de indicação"
+        },
+        {
+            "question": "10) Qual o significado da marca rodoviária de cor amarela?",
+            "optionA": "Proibição de parar em toda a sua extensão.",
+            "optionB": "Proibição de estacionar em toda a sua extensão.",
+            "correct": "B",
+            "imageHash": "2pmyqrpe.jpg",
+            "imageName": "2pmyqrpe.jpg",
+            "topicName": "Sinalização luminosa, marcas no pavimento e outra sinalização"
+        },
+        {
+            "question": "11) Os tranquilizantes e os estimulantes são as únicas categorias de medicamentos que podem exercer efeitos negativos a nível do comportamento do indivíduo ao volante.",
+            "optionA": "A afirmação é verdadeira.",
+            "optionB": "A afirmação é falsa.",
+            "correct": "B",
+            "imageHash": "r84r9epo.jpg",
+            "imageName": "r84r9epo.jpg",
+            "topicName": "Estado físico do condutor, alcool, drogas e medicamentos, sinais de obrigação"
+        },
+        {
+            "question": "12) Nesta situação, qual deve ser o comportamento do velocípede em relação ao veículo pesado?",
+            "optionA": "Deve ceder a passagem.",
+            "optionB": "Deve passar, porque se apresenta pela direita do pesado.",
+            "correct": "B",
+            "imageHash": "adq4y98j.jpg",
+            "imageName": "adq4y98j.jpg",
+            "topicName": "Cedência de passagem"
+        },
+        {
+            "question": "13) Perante este sinal vertical devo ceder a passagem aos veículos sem motor.",
+            "optionA": "Certo.",
+            "optionB": "Errado.",
+            "correct": "A",
+            "imageHash": "j8l99g87.jpg",
+            "imageName": "j8l99g87.jpg",
+            "topicName": "Cedência de passagem"
+        },
+        {
+            "question": "14) Uma das características do peão criança é a sua imprevisibilidade.",
+            "optionA": "Certo.",
+            "optionB": "Errado.",
+            "correct": "A",
+            "imageHash": "qpyzqw8g.jpg",
+            "imageName": "qpyzqw8g.jpg",
+            "topicName": "Iluminação, passageiros e carga, condução defensiva e peões"
+        },
+        {
+            "question": "15) Porque conduzo um veículo de pequenas dimensões, devo utilizar a berma para circular.",
+            "optionA": "Certo.",
+            "optionB": "Errado.",
+            "correct": "B",
+            "imageHash": "j8g4zr8w.jpg",
+            "imageName": "j8g4zr8w.jpg",
+            "topicName": "Visibilidade relativamente aos outros utentes da via"
+        },
+        {
+            "question": "16) A camada de protecção interior de um capacete tem a função de absorver o impacto em caso de acidente.",
+            "optionA": "A afirmação é verdadeira.",
+            "optionB": "A afirmação é falsa.",
+            "correct": "A",
+            "imageHash": "6d54k98v.jpg",
+            "imageName": "6d54k98v.jpg",
+            "topicName": "Equipamento de Protecção"
+        },
+        {
+            "question": "17) As luzes de estrada de um motociclo iluminam para a frente numa distância não inferior a:",
+            "optionA": "30 metros.",
+            "optionB": "50 metros.",
+            "optionC": "100 metros.",
+            "correct": "C",
+            "imageHash": "ldrw9o8m.jpg",
+            "imageName": "ldrw9o8m.jpg",
+            "topicName": "Visibilidade relativamente aos outros utentes da via"
+        },
+        {
+            "question": "18) Nesta via de trânsito, posso circular à velocidade de:",
+            "optionA": "45 Km/h.",
+            "optionB": "55 Km/h.",
+            "optionC": "60 Km/h.",
+            "correct": "A",
+            "imageHash": "386gojdk.jpg",
+            "imageName": "386gojdk.jpg",
+            "topicName": "Velocidade"
+        },
+        {
+            "question": "19) Ao circular nesta via de trânsito devo saber que:",
+            "optionA": "A manobra de marcha atrás é proibida nas lombas.",
+            "optionB": "A manobra de marcha atrás é permitida nas lombas, desde que, seja efectuada como manobra de recurso e no menor trajecto possível.",
+            "optionC": "A manobra de marcha atrás é permitida neste local em virtude das marcas rodoviárias.",
+            "correct": "A",
+            "imageHash": "qp3gba84.jpg",
+            "imageName": "qp3gba84.jpg",
+            "topicName": "Outras manobras"
+        },
+        {
+            "question": "20) O que deve fazer o condutor do veículo que circula imediatamente à minha frente?",
+            "optionA": "Aumentar a distância de segurança.",
+            "optionB": "Parar para permitir que o condutor do veículo branco termine a manobra.",
+            "optionC": "Aumentar a velocidade.",
+            "correct": "A",
+            "imageHash": "2pmnq28e.jpg",
+            "imageName": "2pmnq28e.jpg",
+            "topicName": "Ultrapassagem"
+        },
+        {
+            "question": "21) Tratando-se da suspensão traseira nomeadamente do amortecedor, com o aumento da compressão pretende-se:",
+            "optionA": "Diminuir a velocidade ascensional da roda, reduzindo a possibilidade do amortecedor chegar ao fim de curso.",
+            "optionB": "Aumentar a velocidade ascensional da roda, reduzindo a possibilidade do amortecedor chegar ao fim de curso.",
+            "optionC": "Aumentar os movimentos laterais angulares da roda.",
+            "correct": "A",
+            "imageHash": "ydenvodz.jpg",
+            "imageName": "ydenvodz.jpg",
+            "topicName": "Constituintes do veículo"
+        },
+        {
+            "question": "22) Perante a luz amarela do sinal luminoso, devo:",
+            "optionA": "Avançar rapidamente.",
+            "optionB": "Parar.",
+            "optionC": "Avançar com muita precaução.",
+            "correct": "B",
+            "imageHash": "2pmnmr8e.jpg",
+            "imageName": "2pmnmr8e.jpg",
+            "topicName": "Sinalização luminosa, marcas no pavimento e outra sinalização"
+        },
+        {
+            "question": "23) No próximo entroncamento, não existe sinalização. Devo:",
+            "optionA": "Ceder a passagem.",
+            "optionB": "Parar obrigatoriamente.",
+            "optionC": "Avançar em primeiro lugar.",
+            "correct": "A",
+            "imageHash": "ydeng9dz.jpg",
+            "imageName": "ydeng9dz.jpg",
+            "topicName": "Cedência de passagem"
+        },
+        {
+            "question": "24) O sinal vertical indica-me a proximidade de:",
+            "optionA": "Passagem estreita.",
+            "optionB": "Lomba.",
+            "optionC": "Bermas baixas.",
+            "correct": "B",
+            "imageHash": "ydenm9dz.jpg",
+            "imageName": "ydenm9dz.jpg",
+            "topicName": "Sinais de perigo"
+        },
+        {
+            "question": "25) Nesta situação, devo:",
+            "optionA": "Ceder a passagem, porque o outro veículo é uma ambulância.",
+            "optionB": "Passar, porque tenho prioridade.",
+            "optionC": "Ceder a passagem, porque a ambulância está mais próxima do estreitamento.",
+            "correct": "B",
+            "imageHash": "z8k37bd5.jpg",
+            "imageName": "z8k37bd5.jpg",
+            "topicName": "Cedência de passagem"
+        },
+        {
+            "question": "26) Perante os sinais de regulamentação devo:",
+            "optionA": "Seguir em frente e parar.",
+            "optionB": "Parar e mudar de direcção.",
+            "optionC": "Ceder a passagem.",
+            "correct": "C",
+            "imageHash": "j8gnlodw.jpg",
+            "imageName": "j8gnlodw.jpg",
+            "topicName": "Sinais de proibição"
+        },
+        {
+            "question": "27) Para praticar uma condução em segurança, o condutor de um motociclo deve:",
+            "optionA": "Colocar as mãos no centro dos punhos do guiador.",
+            "optionB": "Colocar as mãos no centro do guiador.",
+            "optionC": "Colocar as mãos nas extremidades dos punhos do guiador.",
+            "correct": "A",
+            "imageHash": "5pnn69pe.jpg",
+            "imageName": "5pnn69pe.jpg",
+            "topicName": "Visibilidade relativamente aos outros utentes da via"
+        },
+        {
+            "question": "28) As infracções ao código da estrada classificam-se em função da sua gravidade, em:",
+            "optionA": "Contra-ordenações leves e graves, unicamente.",
+            "optionB": "Crimes graves ou muito graves.",
+            "optionC": "Contra-ordenações leves, graves, muito graves e crime.",
+            "correct": "C",
+            "imageHash": "qpy5gr8g.jpg",
+            "imageName": "qpy5gr8g.jpg",
+            "topicName": "Títulos de condução, obtenção, revalidação, responsabilidade civil e criminal, contra-ordenações, cassação"
+        },
+        {
+            "question": "29) Se ao condutor fiscalizado for detectada presença de álcool no sangue, é considerado:",
+            "optionA": "Contra-ordenação, independentemente da TAS.",
+            "optionB": "Contra-ordenação muito grave se a taxa de álcool no sangue for inferior a 0,8g/l.",
+            "optionC": "Crime, se a taxa de álcool no sangue for igual a 1,2g/l.",
+            "correct": "C",
+            "imageHash": "z8z7glpn.jpg",
+            "imageName": "z8z7glpn.jpg",
+            "topicName": "Estado físico do condutor, alcool, drogas e medicamentos, sinais de obrigação"
+        },
+        {
+            "question": "30) Após o sinal de indicação:",
+            "optionA": "Transito numa auto-estrada.",
+            "optionB": "Transito numa via com acessos condicionados.",
+            "optionC": "Deixa de haver limite para a velocidade máxima.",
+            "correct": "B",
+            "imageHash": "ap2n2lp2.jpg",
+            "imageName": "ap2n2lp2.jpg",
+            "topicName": "Sinais de indicação"
+        },
+        {
+            "question": "31) O condutor do veículo que emita ruído superior ao determinado por lei:",
+            "optionA": "Só pode transitar fora das localidades.",
+            "optionB": "Só pode transitar a menos de 60 km/h.",
+            "optionC": "Deve primeiro mandar reparar o veículo para poder transitar.",
+            "correct": "C",
+            "imageHash": "z8k3yyd5.jpg",
+            "imageName": "z8k3yyd5.jpg",
+            "topicName": "Classificação, constituintes, inspecções, pesos e dimensões, protecção de ambiente, equipamentos de segurança, acidente"
+        },
+        {
+            "question": "32) Para contornar o veículo e o peão em segurança, o que devo fazer?",
+            "optionA": "Devo estar especialmente atento a qualquer reacção imprevisível por parte do peão.",
+            "optionB": "Devo aumentar a velocidade mantendo uma pequena distância lateral.",
+            "optionC": "Devo buzinar, manter a velocidade e continuar a marcha.",
+            "correct": "A",
+            "imageHash": "ldryk4pm.jpg",
+            "imageName": "ldryk4pm.jpg",
+            "topicName": "Ultrapassagem"
+        },
+        {
+            "question": "33) Como devo proceder em relação ao comportamento do condutor do veículo de duas rodas?",
+            "optionA": "Devo manifestar o meu desagrado, utilizando os sinais sonoros.",
+            "optionB": "Devo circular com muita atenção, porque a qualquer momento este condutor pode passar para a faixa de rodagem.",
+            "optionC": "Devo parar, utilizar as luzes de perigo, sair do veículo e lembrar ao outro condutor, que o passeio é destinado ao trânsito de peões.",
+            "correct": "B",
+            "imageHash": "qpy5n68g.jpg",
+            "imageName": "qpy5n68g.jpg",
+            "topicName": "Iluminação, passageiros e carga, condução defensiva e peões"
+        },
+        {
+            "question": "34) A faixa de rodagem, em que circulo, tem:",
+            "optionA": "Três vias de trânsito no mesmo sentido.",
+            "optionB": "Dois sentidos.",
+            "optionC": "Duas vias em cada sentido.",
+            "correct": "A",
+            "imageHash": "qpybe38g.jpg",
+            "imageName": "qpybe38g.jpg",
+            "topicName": "Circulação, segurança e veículos em missão urgente de socorro"
+        },
+        {
+            "question": "35) Quanto mais pesado for um motociclo mais difícil se torna circular:",
+            "optionA": "Em auto-estrada.",
+            "optionB": "Durante a noite.",
+            "optionC": "Em ambiente urbano.",
+            "correct": "C",
+            "imageHash": "vd723zpg.jpg",
+            "imageName": "vd723zpg.jpg",
+            "topicName": "Constituintes do veículo"
+        },
+        {
+            "question": "36) O sinal vertical indica-me:",
+            "optionA": "Curva perigosa à direita.",
+            "optionB": "Entroncamento com via com prioridade.",
+            "optionC": "Entroncamento com via sem prioridade.",
+            "correct": "C",
+            "imageHash": "q89xkr84.jpg",
+            "imageName": "q89xkr84.jpg",
+            "topicName": "Sinais de prescrição específica, sinais de cedência de passagem"
+        },
+        {
+            "question": "37) Nas pontes é proibido:",
+            "optionA": "Parar e estacionar.",
+            "optionB": "Parar, sendo no entanto permitido estacionar.",
+            "optionC": "Estacionar, sendo no entanto permitido parar.",
+            "correct": "A",
+            "imageHash": "2pmrzrde.jpg",
+            "imageName": "2pmrzrde.jpg",
+            "topicName": "Paragem, estacionamento e cruzamento de veículos"
+        },
+        {
+            "question": "38) Ao circular neste local, devo saber que:",
+            "optionA": "Posso efectuar a manobra de inversão do sentido de marcha porque a sinalização não me proíbe.",
+            "optionB": "Posso efectuar a manobra de inversão do sentido de marcha devendo aproximar-me do eixo da faixa de rodagem.",
+            "optionC": "Estou proibido de inverter o sentido de marcha.",
+            "correct": "C",
+            "imageHash": "2pmrorde.jpg",
+            "imageName": "2pmrorde.jpg",
+            "topicName": "Outras manobras"
+        },
+        {
+            "question": "39) O sinal rectangular de fundo azul pode ser encontrado numa:",
+            "optionA": "Auto-estrada.",
+            "optionB": "Via reservada a automóveis e motociclos.",
+            "optionC": "Estrada nacional.",
+            "correct": "A",
+            "imageHash": "kpa49bpg.jpg",
+            "imageName": "kpa49bpg.jpg",
+            "topicName": "Classificação das vias"
+        },
+        {
+            "question": "40) Os sinais de fundo azul indicam-me que circulo numa:",
+            "optionA": "Via reservada exclusivamente a automóveis.",
+            "optionB": "Auto-estrada.",
+            "optionC": "Estrada nacional.",
+            "correct": "B",
+            "imageHash": "5dwyng8g.jpg",
+            "imageName": "5dwyng8g.jpg",
+            "topicName": "Classificação das vias"
+        },
+        {
+            "question": "41) Nas auto-estradas é permitido:",
+            "optionA": "Ultrapassar, estacionar sobre a via e mudar de direcção.",
+            "optionB": "Mudar de direcção, parar, ultrapassar e utilizar as luzes de cruzamento.",
+            "optionC": "Mudar de via de trânsito para efectuar manobras.",
+            "correct": "C",
+            "imageHash": "a8v9olpk.jpg",
+            "imageName": "a8v9olpk.jpg",
+            "topicName": "Paragem, estacionamento e cruzamento de veículos"
+        },
+        {
+            "question": "42) O condutor do veículo que circula à minha frente deve:",
+            "optionA": "Aproximar com a devida antecedência o veículo do eixo da faixa de rodagem.",
+            "optionB": "Aproximar com a devida antecedência o veículo ao lado esquerdo da faixa de rodagem.",
+            "optionC": "Mudar para a via de trânsito da esquerda.",
+            "correct": "A",
+            "imageHash": "o8xe5apg.jpg",
+            "imageName": "o8xe5apg.jpg",
+            "topicName": "Outras manobras"
+        },
+        {
+            "question": "43) A audição é um sentido muito importante na tarefa da condução. Em que momento?",
+            "optionA": "No tratamento da informação.",
+            "optionB": "Na recolha da informação.",
+            "optionC": "Na decisão.",
+            "correct": "B",
+            "imageHash": "bdo6kgd3.jpg",
+            "imageName": "bdo6kgd3.jpg",
+            "topicName": "Estado físico do condutor, alcool, drogas e medicamentos, sinais de obrigação"
+        },
+        {
+            "question": "44) A sinalização desta via pública, informa-me que circulo:",
+            "optionA": "Na auto-estrada A25.",
+            "optionB": "Na estrada nacional A25.",
+            "optionC": "Na estrada nacional N16.",
+            "correct": "A",
+            "imageHash": "xpjyb4pl.jpg",
+            "imageName": "xpjyb4pl.jpg",
+            "topicName": "Sinais de prescrição específica, sinais de cedência de passagem"
+        },
+        {
+            "question": "45) Perante a sinalização fico a saber que:",
+            "optionA": "Não posso parar, nem estacionar.",
+            "optionB": "Não posso estacionar e devo moderar a velocidade.",
+            "optionC": "Não posso parar e devo moderar a velocidade.",
+            "correct": "B",
+            "imageHash": "5pnylade.jpg",
+            "imageName": "5pnylade.jpg",
+            "topicName": "Velocidade"
+        },
+        {
+            "question": "46) Posso inverter o sentido de marcha neste local?",
+            "optionA": "Sim, a manobra é sempre permitida.",
+            "optionB": "Sim, a largura da faixa de rodagem permite que a manobra se faça com a necessária segurança.",
+            "optionC": "Não, a manobra é sempre proibida.",
+            "correct": "C",
+            "imageHash": "kpae7m8g.jpg",
+            "imageName": "kpae7m8g.jpg",
+            "topicName": "Sinais de proibição"
+        },
+        {
+            "question": "47) Devo utilizar algum sistema de iluminação neste local?",
+            "optionA": "Sim, mas apenas por precaução.",
+            "optionB": "Sim, porque vou entrar num túnel sinalizado como tal.",
+            "optionC": "Não, apenas estou obrigado a ligar as luzes durante a noite.",
+            "correct": "B",
+            "imageHash": "5dwjng8g.jpg",
+            "imageName": "5dwjng8g.jpg",
+            "topicName": "Iluminação, passageiros e carga, condução defensiva e peões"
+        },
+        {
+            "question": "48) Posso circular na via pública onde se encontra o sinal vertical?",
+            "optionA": "Sim, com velocidade moderada.",
+            "optionB": "Não, o sinal indica-me saída de cavaleiros.",
+            "optionC": "Não, é uma via exclusiva para cavaleiros.",
+            "correct": "A",
+            "imageHash": "xpjv6kpl.jpg",
+            "imageName": "xpjv6kpl.jpg",
+            "topicName": "Sinais de perigo"
+        },
+        {
+            "question": "49) Posso iniciar a manobra de ultrapassagem se o condutor do veículo que circula à minha frente assinalar a sua intenção de ultrapassar um terceiro veículo?",
+            "optionA": "Sim, desde que ainda não tenha dado início à manobra de ultrapassagem.",
+            "optionB": "Sim, posso iniciar mas não concluir a manobra de ultrapassagem.",
+            "optionC": "Não, estou proibido de iniciar a manobra.",
+            "correct": "C",
+            "imageHash": "5pnye9de.jpg",
+            "imageName": "5pnye9de.jpg",
+            "topicName": "Ultrapassagem"
+        },
+        {
+            "question": "50) A utilização de óculos de protecção é importante na condução de um motociclo?",
+            "optionA": "Sim, devendo as lentes dos óculos ser sempre de cor escura.",
+            "optionB": "Sim, sempre.",
+            "optionC": "Não, excepto nos casos de dificuldade de visão do condutor.",
+            "correct": "B",
+            "imageHash": "kpbb45p9.jpg",
+            "imageName": "kpbb45p9.jpg",
+            "topicName": "Equipamento de Protecção"
+        },
+        {
+            "question": "51) Circulo correctamente nesta via de trânsito?",
+            "optionA": "Sim, porque transito em auto-estrada.",
+            "optionB": "Sim, se estiver a ultrapassar.",
+            "optionC": "Não, nunca posso circular na via da esquerda.",
+            "correct": "B",
+            "imageHash": "adqr99pj.jpg",
+            "imageName": "adqr99pj.jpg",
+            "topicName": "Circulação, segurança e veículos em missão urgente de socorro"
+        },
+        {
+            "question": "52) Estou proibido de realizar a manobra de ultrapassagem neste local?",
+            "optionA": "Sim, a manobra de ultrapassagem é proibida nas curvas de visibilidade reduzida.",
+            "optionB": "Não, a sinalização não proíbe a realização da manobra.",
+            "optionC": "Não, o sinal indica apenas curva à direita e contracurva, não sendo necessária qualquer precaução.",
+            "correct": "A",
+            "imageHash": "bdoee283.jpg",
+            "imageName": "bdoee283.jpg",
+            "topicName": "Sinais de perigo"
+        },
+        {
+            "question": "53) Neste local, posso transitar a 50 Km/h?",
+            "optionA": "Não, porque as condições da via não o permitem.",
+            "optionB": "Sim, porque dentro das localidades esta é a velocidade mínima obrigatória.",
+            "optionC": "Não, porque essa velocidade nunca é permitida na localidade.",
+            "correct": "A",
+            "imageHash": "5dwjgo8g.jpg",
+            "imageName": "5dwjgo8g.jpg",
+            "topicName": "Velocidade"
+        },
+        {
+            "question": "54) Se um motociclo estiver bastante tempo sem ser utilizado, deve-se desligar o borne negativo da bateria?",
+            "optionA": "Sim, para não consumir a carga da bateria.",
+            "optionB": "Sim, mas apenas nos motociclos com mais de 125cm3.",
+            "optionC": "Não, porque quanto menos se utiliza uma bateria maior é a sua durabilidade.",
+            "correct": "A",
+            "imageHash": "xpjvw2pl.jpg",
+            "imageName": "xpjvw2pl.jpg",
+            "topicName": "Constituintes do veículo"
+        },
+        {
+            "question": "55) Em caso de acidente o capacete integral ou fechado protege mais o condutor de um motociclo. Concorda com esta afirmação?",
+            "optionA": "Sim, mas apenas no inverno.",
+            "optionB": "Sim.",
+            "optionC": "Não.",
+            "correct": "B",
+            "imageHash": "386bj5pk.jpg",
+            "imageName": "386bj5pk.jpg",
+            "topicName": "Equipamento de Protecção"
+        },
+        {
+            "question": "56) O triângulo de pré-sinalização pode ser colocado deste modo?",
+            "optionA": "Sim, sempre que existe perigo de furto do triângulo.",
+            "optionB": "Sim, quando o veículo é visível a 100 metros.",
+            "optionC": "Nunca, pois deve ser colocado a, pelo menos, 30 metros do veículo.",
+            "correct": "C",
+            "imageHash": "a8v36xpk.jpg",
+            "imageName": "a8v36xpk.jpg",
+            "topicName": "Classificação, constituintes, inspecções, pesos e dimensões, protecção de ambiente, equipamentos de segurança, acidente"
+        },
+        {
+            "question": "57) Na condução de um motociclo a velocidades mais elevadas, durante a travagem, cabe ao travão da retaguarda:",
+            "optionA": "O grosso da eficácia de travagem.",
+            "optionB": "A manutenção do equilíbrio e da estabilidade do veículo, compensando a deslocação de massa e diminuindo a pressão sobre o pneu da frente.",
+            "optionC": "O grosso da eficácia de travagem, bem como a manutenção do equilíbrio do veículo.",
+            "correct": "B",
+            "imageHash": "6d5eywdv.jpg",
+            "imageName": "6d5eywdv.jpg",
+            "topicName": "Constituintes do veículo"
+        },
+        {
+            "question": "58) Perante a indicação do sinal luminoso, estou autorizado a avançar. No entanto, as condições do trânsito:",
+            "optionA": "Permitem a utilização dos sinais sonoros.",
+            "optionB": "Não me permitem avançar de imediato.",
+            "optionC": "Obrigam-me a parar antes do sinal.",
+            "correct": "B",
+            "imageHash": "q896m284.jpg",
+            "imageName": "q896m284.jpg",
+            "topicName": "Sinalização luminosa, marcas no pavimento e outra sinalização"
+        },
+        {
+            "question": "59) Perante a linha de paragem desta via pública, acompanhada pelo respectivo sinal vertical, como devo proceder?",
+            "optionA": "Reduzir a velocidade, observar e parar se se aproximar algum veículo da direita.",
+            "optionB": "Parar antes da marca que se encontra no pavimento.",
+            "optionC": "Parar em cima da marca inscrita no pavimento.",
+            "correct": "B",
+            "imageHash": "j8l22gp7.jpg",
+            "imageName": "j8l22gp7.jpg",
+            "topicName": "Circulação, segurança e veículos em missão urgente de socorro"
+        },
+        {
+            "question": "60) A linha descontínua amarela que se encontra à minha direita permite-me:",
+            "optionA": "Parar e estacionar durante o dia.",
+            "optionB": "Estacionar para cargas e descargas.",
+            "optionC": "Parar para largar um passageiro.",
+            "correct": "C",
+            "imageHash": "6d5eo4dv.jpg",
+            "imageName": "6d5eo4dv.jpg",
+            "topicName": "Sinalização luminosa, marcas no pavimento e outra sinalização"
+        },
+        {
+            "question": "61) Os protectores de coluna devem ser usados:",
+            "optionA": "Apenas pelos motociclistas em competição desportiva.",
+            "optionB": "Apenas pelo passageiro de um motociclo.",
+            "optionC": "Pelo condutor e passageiro de um motociclo.",
+            "correct": "C",
+            "imageHash": "386b4vpk.jpg",
+            "imageName": "386b4vpk.jpg",
+            "topicName": "Equipamento de Protecção"
+        },
+        {
+            "question": "62) O sinal indica:",
+            "optionA": "Visibilidade insuficiente.",
+            "optionB": "Vento lateral.",
+            "optionC": "Ponte móvel.",
+            "correct": "B",
+            "imageHash": "z8z3vvdn.jpg",
+            "imageName": "z8z3vvdn.jpg",
+            "topicName": "Sinais de perigo"
+        },
+        {
+            "question": "63) O Homem enquanto condutor deverá ser:",
+            "optionA": "Sempre muito rápido para não provocar embaraço no trânsito.",
+            "optionB": "Tão prudente que pára em todas as intersecções.",
+            "optionC": "Previsível de modo a não surpreender os outros utentes.",
+            "correct": "C",
+            "imageHash": "ldrr94dm.jpg",
+            "imageName": "ldrr94dm.jpg",
+            "topicName": "Iluminação, passageiros e carga, condução defensiva e peões"
+        },
+        {
+            "question": "64) Os sinais de proibição indicam, que a manobra de ultrapassagem, até ao local, era:",
+            "optionA": "Proibida apenas para os veículos ligeiros.",
+            "optionB": "Permitida apenas aos veículos pesados.",
+            "optionC": "Proibida, para todos os veículos com motor.",
+            "correct": "C",
+            "imageHash": "ldrrn4dm.jpg",
+            "imageName": "ldrrn4dm.jpg",
+            "topicName": "Sinais de proibição"
+        },
+        {
+            "question": "65) Se o piso da via estiver cheio de buracos, enquanto condutor de motociclo, devo:",
+            "optionA": "Aumentar a velocidade, para o meu veículo não ficar preso em algum buraco, apesar de prejudicar a sua suspensão.",
+            "optionB": "Aumentar a velocidade, apesar de diminuir o meu conforto.",
+            "optionC": "Reduzir a velocidade de forma a adaptar em segurança a condução ao estado do piso.",
+            "correct": "C",
+            "imageHash": "qpyvw3pg.jpg",
+            "imageName": "qpyvw3pg.jpg",
+            "topicName": "Classificação das vias"
+        },
+        {
+            "question": "66) Perante este sinal que precauções devo tomar?",
+            "optionA": "Parar imediatamente.",
+            "optionB": "Avançar rapidamente.",
+            "optionC": "Reduzir a velocidade.",
+            "correct": "C",
+            "imageHash": "5dw7wg8g.jpg",
+            "imageName": "5dw7wg8g.jpg",
+            "topicName": "Velocidade"
+        },
+        {
+            "question": "67) Em que circunstância um agente de autoridade deve proceder à apreensão do veículo?",
+            "optionA": "Em caso algum.",
+            "optionB": "Se transitar sem chapa de matrícula.",
+            "optionC": "Se estiver estacionado indevidamente.",
+            "correct": "B",
+            "imageHash": "q89vwrd4.jpg",
+            "imageName": "q89vwrd4.jpg",
+            "topicName": "Títulos de condução, obtenção, revalidação, responsabilidade civil e criminal, contra-ordenações, cassação"
+        },
+        {
+            "question": "68) Nesta faixa de rodagem, devo transitar:",
+            "optionA": "Na via de trânsito mais à direita.",
+            "optionB": "Regra geral, na via de trânsito do centro.",
+            "optionC": "Sempre na via de trânsito da esquerda.",
+            "correct": "A",
+            "imageHash": "ydeonlpz.jpg",
+            "imageName": "ydeonlpz.jpg",
+            "topicName": "Circulação, segurança e veículos em missão urgente de socorro"
+        },
+        {
+            "question": "69) O condutor de um motociclo onde é possível o transporte de um passageiro, para conduzir em segurança, deve:",
+            "optionA": "Sentar-se no meio do banco.",
+            "optionB": "Sentar-se na parte traseira do banco.",
+            "optionC": "Sentar-se na parte dianteira do banco.",
+            "correct": "C",
+            "imageHash": "z8zx7gdn.jpg",
+            "imageName": "z8zx7gdn.jpg",
+            "topicName": "Visibilidade relativamente aos outros utentes da via"
+        },
+        {
+            "question": "70) O condutor detectado com uma taxa de alcoolémia igual a 0,5 g/l incorre em contra-ordenação?",
+            "optionA": "Não.",
+            "optionB": "Sim, leve.",
+            "optionC": "Sim, grave.",
+            "correct": "C",
+            "imageHash": "38655apk.jpg",
+            "imageName": "38655apk.jpg",
+            "topicName": "Títulos de condução, obtenção, revalidação, responsabilidade civil e criminal, contra-ordenações, cassação"
+        },
+        {
+            "question": "71) Antes da saída desta auto-estrada vou encontrar outros sinais complementares?",
+            "optionA": "Não, porque este sinal se encontra a 750 metros.",
+            "optionB": "Sim vou encontrar, mas apenas a 200 metros.",
+            "optionC": "Sim, pelo menos mais dois sinais.",
+            "correct": "C",
+            "imageHash": "6d5o94pv.jpg",
+            "imageName": "6d5o94pv.jpg",
+            "topicName": "Sinais de indicação"
+        },
+        {
+            "question": "72) O sinal significa:",
+            "optionA": "Proibição de inverter o sentido de marcha.",
+            "optionB": "Cedência de passagem nos estreitamentos da faixa de rodagem.",
+            "optionC": "Trânsito simultâneo nos dois sentidos.",
+            "correct": "B",
+            "imageHash": "bdogv5p3.jpg",
+            "imageName": "bdogv5p3.jpg",
+            "topicName": "Sinais de prescrição específica, sinais de cedência de passagem"
+        },
+        {
+            "question": "73) A via de trânsito destina-se à circulação de quantas filas de veículos?",
+            "optionA": "Uma.",
+            "optionB": "Duas.",
+            "optionC": "Três ou mais.",
+            "correct": "A",
+            "imageHash": "5dwgny8g.jpg",
+            "imageName": "5dwgny8g.jpg",
+            "topicName": "Vias de trânsito, condições ambientais adversas"
+        },
+        {
+            "question": "74) O que devo fazer nesta situação?",
+            "optionA": "Manter uma distância de segurança do veículo da frente que me permita executar qualquer manobra em segurança.",
+            "optionB": "Ultrapassar, independentemente da visibilidade do local.",
+            "optionC": "Ultrapassar, independentemente da velocidade do veículo branco.",
+            "correct": "A",
+            "imageHash": "adqx7qpj.jpg",
+            "imageName": "adqx7qpj.jpg",
+            "topicName": "Ultrapassagem"
+        },
+        {
+            "question": "75) O sinal circular de fundo branco, indica:",
+            "optionA": "Trânsito proibido a veículos pesados que transportem produtos inflamáveis ou explosivos.",
+            "optionB": "Trânsito proibido a veículos que transportem produtos susceptíveis de poluírem as águas.",
+            "optionC": "Via obrigatória para veículos que transportem produtos inflamáveis.",
+            "correct": "B",
+            "imageHash": "ap22vep2.jpg",
+            "imageName": "ap22vep2.jpg",
+            "topicName": "Sinais de proibição"
+        },
+        {
+            "question": "76) Devem submeter-se às provas para a deteção do estado de influenciado pelo álcool:",
+            "optionA": "Todos os condutores, peões e pessoas que se propuserem iniciar a condução.",
+            "optionB": "Apenas os condutores e os peões.",
+            "optionC": "Apenas os condutores e peões intervenientes em acidentes de trânsito.",
+            "optionD": "Todos os condutores, peões, intervenientes em acidentes de trânsito e pessoas que se propuserem iniciar a condução.",
+            "correct": "C",
+            "imageHash": "z8kgryp5.jpg",
+            "imageName": "z8kgryp5.jpg",
+            "topicName": "Estado físico do condutor, alcool, drogas e medicamentos, sinais de obrigação"
+        },
+        {
+            "question": "77) Neste local posso:",
+            "optionA": "Estacionar do lado esquerdo da via.",
+            "optionB": "Inverter o sentido da marcha.",
+            "correct": "B",
+            "imageHash": "z8k23v85.jpg",
+            "imageName": "z8k23v85.jpg",
+            "topicName": "Outras manobras"
+        },
+        {
+            "question": "78) Nesta passagem estreita, porque estou mais perto do local em que o cruzamento é possível, devo ser eu a recuar.",
+            "optionA": "Certo.",
+            "optionB": "Errado.",
+            "correct": "A",
+            "imageHash": "6d5lzzpv.jpg",
+            "imageName": "6d5lzzpv.jpg",
+            "topicName": "Paragem, estacionamento e cruzamento de veículos"
+        },
+        {
+            "question": "79) O sinal de fundo amarelo é utilizado em situações em que a sinalização tem um carácter:",
+            "optionA": "Definitivo.",
+            "optionB": "Temporário.",
+            "correct": "B",
+            "imageHash": "xpjaokpl.jpg",
+            "imageName": "xpjaokpl.jpg",
+            "topicName": "Sinais de indicação"
+        },
+        {
+            "question": "80) As marcas no pavimento recomendam-me a distância de segurança que devo manter em relação ao veículo que circula à minha frente.",
+            "optionA": "A afirmação é verdadeira.",
+            "optionB": "A afirmação é falsa.",
+            "correct": "A",
+            "imageHash": "z8zkjk8n.jpg",
+            "imageName": "z8zkjk8n.jpg",
+            "topicName": "Sinalização luminosa, marcas no pavimento e outra sinalização"
+        },
+        {
+            "question": "81) A via de aceleração é a via de trânsito mais à esquerda e destinada ao trânsito mais rápido. Concorda com esta afirmação?",
+            "optionA": "Sim.",
+            "optionB": "Não.",
+            "correct": "B",
+            "imageHash": "qp3byzd4.jpg",
+            "imageName": "qp3byzd4.jpg",
+            "topicName": "Sinalização luminosa, marcas no pavimento e outra sinalização"
+        },
+        {
+            "question": "82) Devo ultrapassar pela direita um veículo, cujo condutor, tenha assinalado a sua intenção de mudar de direcção para a esquerda. Concorda com esta afirmação?",
+            "optionA": "Sim, desde que tenha deixado livre a parte mais à direita da faixa de rodagem.",
+            "optionB": "Não, a ultrapassagem deve ser sempre efectuada pela esquerda.",
+            "correct": "A",
+            "imageHash": "ap2exzp2.jpg",
+            "imageName": "ap2exzp2.jpg",
+            "topicName": "Ultrapassagem"
+        },
+        {
+            "question": "83) Ao circular nesta via com intensidade de trânsito, estou obrigado a moderar a velocidade do meu veículo?",
+            "optionA": "Sim.",
+            "optionB": "Não.",
+            "correct": "A",
+            "imageHash": "2pmyzrpe.jpg",
+            "imageName": "2pmyzrpe.jpg",
+            "topicName": "Velocidade"
+        },
+        {
+            "question": "84) Nesta situação, o que devo fazer?",
+            "optionA": "Avançar, interrompendo a fila de trânsito à esquerda.",
+            "optionB": "Aguardar que um condutor me ceda a passagem.",
+            "correct": "B",
+            "imageHash": "qpyz6r8g.jpg",
+            "imageName": "qpyz6r8g.jpg",
+            "topicName": "Paragem, estacionamento e cruzamento de veículos"
+        },
+        {
+            "question": "85) Nesta situação, devo:",
+            "optionA": "Aguardar que o autocarro retome a marcha.",
+            "optionB": "Ultrapassar com recurso à marcha atrás.",
+            "correct": "A",
+            "imageHash": "z8zk7l8n.jpg",
+            "imageName": "z8zk7l8n.jpg",
+            "topicName": "Paragem, estacionamento e cruzamento de veículos"
+        },
+        {
+            "question": "86) O veículo à minha frente é um velocípede?",
+            "optionA": "Sim, porque é um veículo de duas rodas e pode ser accionado só pelo esforço do condutor.",
+            "optionB": "Não, porque é equiparado a um peão.",
+            "correct": "B",
+            "imageHash": "kpb96x89.jpg",
+            "imageName": "kpb96x89.jpg",
+            "topicName": "Classificação, constituintes, inspecções, pesos e dimensões, protecção de ambiente, equipamentos de segurança, acidente"
+        },
+        {
+            "question": "87) O factor humano assume o papel principal na sinistralidade rodoviária.",
+            "optionA": "Certo.",
+            "optionB": "Errado.",
+            "correct": "A",
+            "imageHash": "bdobe683.jpg",
+            "imageName": "bdobe683.jpg",
+            "topicName": "Circulação, segurança e veículos em missão urgente de socorro"
+        },
+        {
+            "question": "88) A condução sob influência de álcool é sempre considerada uma contra- ordenação.",
+            "optionA": "Certo.",
+            "optionB": "Errado.",
+            "correct": "B",
+            "imageHash": "bdoby683.jpg",
+            "imageName": "bdoby683.jpg",
+            "topicName": "Estado físico do condutor, alcool, drogas e medicamentos, sinais de obrigação"
+        },
+        {
+            "question": "89) Neste veículo só é permitido o transporte de passageiros com 7 ou mais anos de idade.",
+            "optionA": "Certo.",
+            "optionB": "Errado.",
+            "correct": "A",
+            "imageHash": "bdobjg83.jpg",
+            "imageName": "bdobjg83.jpg",
+            "topicName": "Visibilidade relativamente aos outros utentes da via"
+        },
+        {
+            "question": "90) O sistema de transmissão dos motociclos deve ser lubrificado?",
+            "optionA": "Não.",
+            "optionB": "Sim.",
+            "correct": "B",
+            "imageHash": "5pneozpe.jpg",
+            "imageName": "5pneozpe.jpg",
+            "topicName": "Constituintes do veículo"
+        },
+        {
+            "question": "91) Regra geral, qual dos seguintes factores condiciona mais a condução nocturna?",
+            "optionA": "As condições de visibilidade.",
+            "optionB": "A ausência de trânsito.",
+            "optionC": "A audição.",
+            "correct": "A",
+            "imageHash": "j8lr7b87.jpg",
+            "imageName": "j8lr7b87.jpg",
+            "topicName": "Vias de trânsito, condições ambientais adversas"
+        },
+        {
+            "question": "92) No posicionamento dos pés, o condutor de um motociclo deve apoiar:",
+            "optionA": "Os pés no meio dos respectivos apoios.",
+            "optionB": "Os calcanhares nos respectivos apoios.",
+            "optionC": "A zona das falanges nos respectivos apoios.",
+            "correct": "A",
+            "imageHash": "j8gwo3dw.jpg",
+            "imageName": "j8gwo3dw.jpg",
+            "topicName": "Visibilidade relativamente aos outros utentes da via"
+        },
+        {
+            "question": "93) Caminho é uma via pública destinada:",
+            "optionA": "À circulação exclusiva de animais.",
+            "optionB": "À circulação exclusiva de tractores agrícolas.",
+            "optionC": "Ao trânsito local em zonas rurais.",
+            "correct": "C",
+            "imageHash": "j8lrxl87.jpg",
+            "imageName": "j8lrxl87.jpg",
+            "topicName": "Classificação das vias"
+        },
+        {
+            "question": "94) Assinale a afirmação verdadeira:",
+            "optionA": "Nos motociclos, os amortecedores de direcção têm como principal função tornar a direcção mais leve.",
+            "optionB": "Os componentes essenciais do sistema de suspensão dos motociclos são os amortecedores e as molas.",
+            "optionC": "As molas do sistema de suspensão da generalidade dos motociclos não permitem qualquer tipo de regulação.",
+            "correct": "B",
+            "imageHash": "2pmnl28e.jpg",
+            "imageName": "2pmnl28e.jpg",
+            "topicName": "Constituintes do veículo"
+        },
+        {
+            "question": "95) O condutor deve regular a velocidade:",
+            "optionA": "Atendendo somente às características e estado do veículo e da via.",
+            "optionB": "Atendendo à presença de utilizadores vulneráveis.",
+            "optionC": "Atendendo somente à carga transportada.",
+            "correct": "B",
+            "imageHash": "r84nxbdo.jpg",
+            "imageName": "r84nxbdo.jpg",
+            "topicName": "Velocidade"
+        },
+        {
+            "question": "96) Antes de iniciar qualquer manobra, devo:",
+            "optionA": "Ligar as luzes de perigo.",
+            "optionB": "Utilizar os sinais sonoros.",
+            "optionC": "Certificar-me que posso iniciar a marcha sem risco de acidente.",
+            "correct": "C",
+            "imageHash": "vd7vmbdg.jpg",
+            "imageName": "vd7vmbdg.jpg",
+            "topicName": "Iluminação, passageiros e carga, condução defensiva e peões"
+        },
+        {
+            "question": "97) O sinal existente na via de trânsito é de:",
+            "optionA": "Pré-sinalização.",
+            "optionB": "Direcção.",
+            "optionC": "Confirmação.",
+            "correct": "A",
+            "imageHash": "386v2adk.jpg",
+            "imageName": "386v2adk.jpg",
+            "topicName": "Sinais de indicação"
+        },
+        {
+            "question": "98) Como devo proceder se o meu veículo avariar na passagem de nível?",
+            "optionA": "Devo apenas utilizar o sinal de pré-sinalização para avisar os restantes condutores que me encontro imobilizado naquele local.",
+            "optionB": "Devo tentar retirar o veículo e, caso não seja possível, devo fazer com que o condutor do comboio se aperceba da minha presença, já fora do veículo.",
+            "optionC": "Devo chamar de imediato um agente de autoridade ou os bombeiros e não mexer no veículo.",
+            "correct": "B",
+            "imageHash": "vd7vq6dg.jpg",
+            "imageName": "vd7vq6dg.jpg",
+            "topicName": "Circulação, segurança e veículos em missão urgente de socorro"
+        },
+        {
+            "question": "99) No local em que me encontro:",
+            "optionA": "Posso circular a mais de 50 Km/h.",
+            "optionB": "Não devo ultrapassar a velocidade indicada no sinal.",
+            "optionC": "Devo circular a mais de 50 Km/h.",
+            "correct": "A",
+            "imageHash": "xpjn448l.jpg",
+            "imageName": "xpjn448l.jpg",
+            "topicName": "Velocidade"
+        },
+        {
+            "question": "100) O álcool ingerido pelo condutor:",
+            "optionA": "Aumenta a sua percepção visual.",
+            "optionB": "Diminui a percepção visual.",
+            "optionC": "Diminui o risco de acidente.",
+            "correct": "B",
+            "imageHash": "yden2ndz.jpg",
+            "imageName": "yden2ndz.jpg",
+            "topicName": "Estado físico do condutor, alcool, drogas e medicamentos, sinais de obrigação"
+        }
+    ]
+}

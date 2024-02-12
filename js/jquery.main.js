@@ -9,6 +9,8 @@ jQuery(function() {
     var urlData = jsonData + '.json';
     var baseImgUrl = 'https://www.passarnocodigo.com/content/resources/images/';
 
+    // console.log(urlData);
+
     $.getJSON(urlData, function(response) {
         let questions = response.questions;
         let content = '';
@@ -62,7 +64,7 @@ jQuery(function() {
     })
     .done(function() {
         // console.log('done');
-        initAnchors();
+        // initAnchors();
     })
     .fail(function(jqxhr, textStatus, error) {
         var err = textStatus + ", " + error;
